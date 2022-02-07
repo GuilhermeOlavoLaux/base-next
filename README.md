@@ -1,5 +1,5 @@
 
-## Estudos Next
+## 👩🏻‍💻 Estudos Next
 
 Primeiramente instale as dependências do projeto e depois rode a aplicação:
 
