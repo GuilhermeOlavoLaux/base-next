@@ -9,4 +9,4 @@ npm install
 npm run dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) em seu navegador 😃
+E então abra [http://localhost:3000](http://localhost:3000) em seu navegador 😃
